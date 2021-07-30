@@ -8,8 +8,8 @@ export FOX_USE_BASH_SHELL=1
 export FOX_ASH_IS_BASH=1
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
 export FOX_DELETE_AROMAFM=1
-export OF_MAINTAINER="BruhDudeWew"
-export OF_MAINTAINER_AVATAR=$HOME/bruh.png
+export OF_MAINTAINER="dotA"
+export OF_MAINTAINER_AVATAR=$HOME/dota.png
 export OF_SCREEN_H=2400
 export OF_STATUS_H=74
 export OF_STATUS_INDENT_LEFT=48
@@ -23,3 +23,13 @@ export OF_USE_TWRP_SAR_DETECT=1
 export OF_NO_SPLASH_CHANGE=1
 export FOX_USE_XZ_UTILS=1
 export FOX_USE_SPECIFIC_MAGISK_ZIP=$HOME/magisk.zip
+
+
+
+
+
+
+
+
+
+add_lunch_combo omni_a50dd-eng 
